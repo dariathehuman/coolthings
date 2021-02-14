@@ -10,23 +10,23 @@ const colors = [
 
 function createSquare() {
     const section = document.querySelector('section');
-    const square = document.createElement('span');
+    const figure = document.createElement('span');
 
     let size = Math.random() * 70;
 
-    square.style.width = 30 + size + 'px';
-    square.style.height = 30 + size + 'px';
+    figure.style.width = 30 + size + 'px';
+    figure.style.height = 30 + size + 'px';
 
-    square.style.top = Math.random() * window.innerHeight + 'px';
-    square.style.left = Math.random() * window.innerWidth + 'px';
+    figure.style.top = Math.random() * window.innerHeight + 'px';
+    figure.style.left = Math.random() * window.innerWidth + 'px';
 
     const bgColor = colors[Math.floor(Math.random() * colors.length)];
-    square.style.background = bgColor;
+    figure.style.background = bgColor;
 
-    section.appendChild(square);
+    section.appendChild(figure);
 
     setTimeout(() => {
-        square.remove();
+        figure.remove();
     }, 7000)
 }
 
