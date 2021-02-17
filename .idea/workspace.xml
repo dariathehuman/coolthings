@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="189920a4-e685-4212-b771-13e3872ec820" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/circles.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaves/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaves/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live-circles/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live-circles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/live-circles/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +42,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/live-circles" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -45,6 +59,10 @@
       <option name="presentableId" value="Default" />
       <updated>1612990906828</updated>
       <workItem from="1612990908406" duration="3758000" />
+      <workItem from="1613317159781" duration="193000" />
+      <workItem from="1613331971703" duration="13000" />
+      <workItem from="1613385304318" duration="29000" />
+      <workItem from="1613591827576" duration="2132000" />
     </task>
     <servers />
   </component>
