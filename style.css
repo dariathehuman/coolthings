@@ -6,9 +6,20 @@
 
 body {
     background-color: #303030;
+    width: 100vw;
+    height: 100vh;
+}
+
+.cards {
+    width: 920px;
+    margin: 0 auto;
 }
 
 .cards__list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
     padding: 0;
     list-style: none;
 }
@@ -16,4 +27,27 @@ body {
 .cards__img {
     width: 400px;
     border-radius: 24px;
+}
+
+@media (max-width: 999px) {
+    .cards__img {
+        width: 250px;
+    }
+
+    .cards {
+        width: 600px;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 767px) {
+    .cards__img {
+        width: 220px;
+    }
+
+    .cards__list {
+        padding: 40px 0;
+        height: auto;
+        flex-direction: column;
+    }
 }
