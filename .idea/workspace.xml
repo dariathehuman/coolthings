@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="189920a4-e685-4212-b771-13e3872ec820" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/custom-checkbox/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/custom-checkbox/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +59,8 @@
       <workItem from="1613385304318" duration="29000" />
       <workItem from="1613591827576" duration="4867000" />
       <workItem from="1613684706176" duration="3058000" />
+      <workItem from="1613737927897" duration="252000" />
+      <workItem from="1614802547953" duration="1792000" />
     </task>
     <servers />
   </component>
